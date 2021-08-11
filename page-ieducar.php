@@ -20,7 +20,7 @@ get_header(); ?>
           <div style="width: 770px; text-align: center; font-family: Muli, sans-serif; font-size: 21px; color: white; margin: 0 auto">
             <strong>Pré-matrícula Digital, garantindo o direito de acesso à escola!</strong>
             <br>
-            Com o pré-matrícula é possível que pais e/ou responsáveis façam as reservas de vagas de seus filhos e filhas de casa com segurança, 
+            Com o pré-matrícula é possível que pais e/ou responsáveis façam as reservas de vagas de seus filhos e filhas de casa com segurança,
             evitando filas e aglomerações.
           </div>
           <div class="action pt-3" style="text-align: center">
@@ -388,10 +388,10 @@ get_header(); ?>
             <div class="col-sm-8 wow animated fadeInLeft">
               <div class="row no-gutters">
                 <div class="col-sm-12">
-                  <h4>“Estamos <strong>totalmente satisfeitos</strong> com os serviços da Portabilis”</h4>
+                  <h4>“A Portabilis, além de um conjunto completo de ferramentas administrativas e pedagógicas, possui também uma excelente equipe de consultoria e suporte, que garantem o sucesso na implantação e na utilização dos sistemas que eles oferecem. O time da Portabilis desenvolve um papel especial no acompanhamento e na orientação das soluções que utilizamos. Esse diferencial tem garantido um excelente nível de satisfação dos usuários de nossa rede de ensino em todos os níveis, tanto por parte dos professores quanto dos administradores.”</h4>
                   <div class="test-div"></div>
-                  <p class="test-name">Fábio Gualberto</p>
-                  <p class="test-desc">Secretário de Educação de Dom Eliseu, PA</p>
+                  <p class="test-name">Antonio Ramos</p>
+                  <p class="test-desc">Tecnologia de Dom Eliseu, PA</p>
                 </div>
               </div>
             </div>
@@ -400,15 +400,15 @@ get_header(); ?>
         <div class="col-lg-6 mb-6 mb-sm-0">
           <div class="row">
             <div class="col-sm-4 wow animated fadeInRight">
-              <img class="img-fluid"  src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/assets/img/dep3.png"; ?>" alt="">
+              <img class="img-fluid"  src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/assets/img/dep8.png"; ?>" alt="">
             </div>
             <div class="col-sm-8 wow animated fadeInRight">
               <div class="row no-gutters">
                 <div class="col-sm-12">
-                  <h4>“Após a implantação do i-Educar a Secretaria passou a ter uma visão integrada de toda a rede”</h4>
+                  <h4>“Sabendo da importância de adequar processos diários ao meio tecnológico e a insegurança que ronda o meio, ainda mais envolvendo dados pessoais. Percebemos todo o zelo que existe na Portabilis para proporcionar gestão e segurança em seus sistemas, promovendo ao nosso município uma organização mais eficaz dos processos educacionais. Além disso, a integração existente entre o portal do professor, o controle administrativo/pedagógico e as melhorias contínuas de adequações, principalmente a facilitação de processos, como por exemplo, a solicitação de matrículas on-line, contribuem para uma ampla visualização e projeção da gestão escolar eficaz com o uso de tecnologia.”</h4>
                   <div class="test-div"></div>
-                  <p class="test-name">Andréia Custódio</p>
-                  <p class="test-desc">Secretário de Educação de Içara, SC</p>
+                  <p class="test-name">Tiago Ferro Pavan</p>
+                  <p class="test-desc">Diretor Executivo de TI de Criciúma, SC</p>
                 </div>
               </div>
             </div>
