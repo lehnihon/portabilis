@@ -1,6 +1,6 @@
 <?php
 get_header(); ?>
-<div style="background-color: #ebf3ff; padding: 5rem 0;">
+<div style="background-color: #ebf3ff; padding: 8rem 0;">
     <div class="container">
       <div class="row">
         <div class="col-6">
