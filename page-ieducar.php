@@ -1,5 +1,21 @@
 <?php
 get_header(); ?>
+<div style="background-color: #ebf3ff; padding: 5rem 0;">
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+          <img src="/wp-content/themes/portabilis-master/assets/img/ieducar-tela.png" alt="Conheça o sistema i-Educar">
+        </div>
+        <div class="col-5 offset-1">
+          <h2 style="text-align: left; margin-top: 25px">i-Educar</h2>
+          <div class="big subtitle" style="width: 350px">O i-Educar é um software livre que facilita a gestão escolar por meio dos dados e da tecnologia.</div>
+          <div class="action pt-3">
+            <a href="#quero-conhecer" data-toggle="modal" data-target="#quero-conhecer" class="btn-base btn-azul" title="Quero conhecer">Quero conhecer</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 <div id="banner-ieducar" class="bg-banner-ieducar">
   <div class="wrap-title wow animated fadeInUp banner-i-educar">
     <h1><strong>Ensino remoto, sem deixar ninguém pra trás</strong></h1>
@@ -20,7 +36,7 @@ get_header(); ?>
           <div style="width: 770px; text-align: center; font-family: Muli, sans-serif; font-size: 21px; color: white; margin: 0 auto">
             <strong>Pré-matrícula Digital, garantindo o direito de acesso à escola!</strong>
             <br>
-            Com o pré-matrícula é possível que pais e/ou responsáveis façam as reservas de vagas de seus filhos e filhas de casa com segurança, 
+            Com o pré-matrícula é possível que pais e/ou responsáveis façam as reservas de vagas de seus filhos e filhas de casa com segurança,
             evitando filas e aglomerações.
           </div>
           <div class="action pt-3" style="text-align: center">
@@ -30,22 +46,7 @@ get_header(); ?>
       </div>
     </div>
   </div>
-  <div style="background-color: #ebf3ff; padding: 5rem 0;">
-    <div class="container">
-      <div class="row">
-        <div class="col-6">
-          <img src="/wp-content/themes/portabilis-master/assets/img/ieducar-tela.png" alt="Conheça o sistema i-Educar">
-        </div>
-        <div class="col-5 offset-1">
-          <h2 style="text-align: left; margin-top: 25px">i-Educar</h2>
-          <div class="big subtitle" style="width: 350px">O i-Educar é um software livre que facilita a gestão escolar por meio dos dados e da tecnologia.</div>
-          <div class="action pt-3">
-            <a href="#quero-conhecer" data-toggle="modal" data-target="#quero-conhecer" class="btn-base btn-azul" title="Quero conhecer">Quero conhecer</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <div class="section-e pb-8 pt-5">
     <div class="container-fluid">
       <div class="row justify-content-center title-home">
