@@ -10,7 +10,7 @@ get_header(); ?>
           <h2 style="text-align: left; margin-top: 25px">i-Educar</h2>
           <div class="big subtitle" style="width: 350px">O i-Educar é um software livre que facilita a gestão escolar por meio dos dados e da tecnologia.</div>
           <div class="action pt-3">
-            <a href="#quero-conhecer" data-toggle="modal" data-target="#quero-conhecer" class="btn-base btn-azul" title="Quero conhecer">Quero conhecer</a>
+            <a href="#quero-conhecer" data-toggle="modal" data-target="#quero-conhecer" class="btn-base btn-azul" title="Fale com nosso time de vendas">Fale com nosso time de vendas</a>
           </div>
         </div>
       </div>
@@ -314,7 +314,7 @@ get_header(); ?>
           <div class="col-sm-8">
           </div>
           <div class="col-sm-4 check">
-            <a href="#" class="btn-base btn-blue" data-toggle="modal" data-target="#cta-b" title="">Conheça mais</a>
+            <a href="#" class="btn-base btn-blue" data-toggle="modal" data-target="#cta-b" title="Agende uma demonstração">Agende uma demonstração</a>
           </div>
         </div>
       </div>
