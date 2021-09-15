@@ -92,7 +92,7 @@ get_header(); ?>
           <div class="resource">
             <img src="<?php echo dirname( get_bloginfo('stylesheet_url'))."/assets/img/ico-card.png"; ?>" />
             <h4>Um cartão só seu, para usar como quiser</h4>
-            <p>Aqui prezamos pela liberdade, por isso você tem um cartão flexível com R$ 475,00 todo mês.</p>
+            <p>Aqui prezamos pela liberdade, por isso você tem um cartão flexível com R$ 520,00 todo mês.</p>
           </div>
         </div>
         <div class="col-sm-6 col-lg-3 wow animated zoomIn">
