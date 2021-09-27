@@ -5,7 +5,7 @@ get_header(); ?>
     <h1><?php the_field('home_banner_titulo'); ?></h1>
     <div class="big subtitle"><?php the_field('home_banner_subtitulo'); ?></div>
     <div class="action">
-      <a href="#cta" class="btn-base btn-azul" data-toggle="modal" data-target="#cta" title="Quero conhecer">Quero conhecer</a>
+      <a href="https://conteudos.portabilis.com.br/home-site" class="btn-base btn-azul" title="Quero conhecer">Quero conhecer</a>
     </div>
     <img class="img-fluid d-none" src="/wp-content/uploads/2019/07/banner-principal-home-1.png" alt="Conheça a Portabilis">
   </div>
