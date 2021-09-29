@@ -40,7 +40,7 @@ get_header(); ?>
             evitando filas e aglomerações.
           </div>
           <div class="action pt-3" style="text-align: center">
-            <a href="https://conteudos.portabilis.com.br/inscricao-online" target="_blank" class="btn-base btn-white-blue" title="Quero conhecer">Quero conhecer</a>
+            <a href="https://conteudos.portabilis.com.br/pre-matricula-digital" target="_blank" class="btn-base btn-white-blue" title="Quero conhecer">Quero conhecer</a>
           </div>
         </div>
       </div>
