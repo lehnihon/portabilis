@@ -12679,3 +12679,9 @@ div.wpcf7 .ajax-loader {
     font-size: 2.4rem !important;
   }
 }
+
+@media (min-width: 1025px) and (max-width: 1281px) {
+  .team-container{
+    margin-top: 8vh;
+  }
+}

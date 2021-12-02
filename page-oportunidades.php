@@ -6,7 +6,6 @@ get_header(); ?>
     <div class="action">
       <a href="#session-oportunidades" class="btn-base btn-azul" title="Oportunidades Disposníveis">Oportunidades Disponíveis</a>
     </div>
-    <img class="img-fluid d-none" src="/wp-content/uploads/2019/07/portabilis-banner-principal-oportunidades.png" alt="Conheça nossas oportunidades">
   </div>
 </div>
 <div id="page" class="pad-ieducar pad-oportunidades">
@@ -22,7 +21,7 @@ get_header(); ?>
             Aqui a criatividade, inovação, ideias e, principalmente, o esforço coletivo nos fazem atingir resultados de se orgulhar e que nos fazem crescer juntos todos os dias.
           </p>
         </div>
-        <div class="col-lg-7 offset-lg-1">
+        <div class="col-lg-7 team-container offset-lg-1">
           <div class="row gallery">
             <?php
             $i = 0;
