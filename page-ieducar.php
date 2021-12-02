@@ -32,7 +32,7 @@ get_header(); ?>
     <div class="container">
       <div class="row">
         <div class="col-12">
-          <h2 style="text-align: center; margin-top: 95px; color: white">As filas acabaram:</h2>
+          <h2 style="text-align: center; margin-top: 8vh; color: white">As filas acabaram:</h2>
           <div style="text-align: center; font-family: Muli, sans-serif; font-size: 21px; color: white; margin: 0 auto">
             <strong>Pré-matrícula Digital, garantindo o direito de acesso à escola!</strong>
             <br>
