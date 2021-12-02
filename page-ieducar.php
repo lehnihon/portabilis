@@ -3,10 +3,10 @@ get_header(); ?>
 <div style="background-color: #ebf3ff; padding: 8rem 0;">
     <div class="container">
       <div class="row">
-        <div class="col-6">
+        <div class="col-lg-6 col-sm-12">
           <img src="/wp-content/themes/portabilis-master/assets/img/ieducar-tela.png" alt="Conheça o sistema i-Educar">
         </div>
-        <div class="col-5 offset-1">
+        <div class="col-lg-6 col-sm-12">
           <h2 style="text-align: left; margin-top: 25px">i-Educar</h2>
           <div class="big subtitle" style="width: 350px">O i-Educar é um software livre que facilita a gestão escolar por meio dos dados e da tecnologia.</div>
           <div class="action pt-3">
@@ -33,7 +33,7 @@ get_header(); ?>
       <div class="row">
         <div class="col-12">
           <h2 style="text-align: center; margin-top: 95px; color: white">As filas acabaram:</h2>
-          <div style="width: 770px; text-align: center; font-family: Muli, sans-serif; font-size: 21px; color: white; margin: 0 auto">
+          <div style="text-align: center; font-family: Muli, sans-serif; font-size: 21px; color: white; margin: 0 auto">
             <strong>Pré-matrícula Digital, garantindo o direito de acesso à escola!</strong>
             <br>
             Com o pré-matrícula é possível que pais e/ou responsáveis façam as reservas de vagas de seus filhos e filhas de casa com segurança,
